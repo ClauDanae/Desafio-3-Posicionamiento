@@ -1,0 +1,65 @@
+body {
+    background-color: black;
+    color: white;
+    margin: 0px;
+}
+
+.header {
+    background-image: url("../img/bg-header.jpg");
+    width: 1280px;
+    height: 727px;
+    margin: auto;
+    display: block;
+    background-size: cover;
+    position: relative;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h2{
+    padding: 5%;
+}
+
+.seccion div {
+    display: inline-block;
+    text-align: left;
+    width: 40%;
+    margin-left: 5%;
+    vertical-align: middle;
+}
+
+.menu {
+    background: #1E1A13;
+    text-align: center;
+    opacity: 0.98;
+    color: white;
+    top: 1141px;
+    left: 0px;
+    padding: 3%;
+}
+
+.menu li {
+    display: inline-block;
+    color: #FFFFFF;
+    font-size: 30px;
+    opacity: 1;
+    width: 32%;
+}
+
+.menu ul{
+    width: 100%;
+}
+.descripcionimg {
+    display: inline-block;
+}
+
+footer {
+    text-align: center;
+}
+
+footer p {
+    padding: 3%;
+}
